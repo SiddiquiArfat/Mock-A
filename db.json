@@ -3,8 +3,24 @@
       {
         "id": 1,
         "name": "Gertrudis Tatterton",
-        "age": 18,
-        "email": "gtatterton0@ehow.com"
+        "mobile": "9898989898", 
+        "email": "gtatterton0@ehow.com",
+        "password": "12345",
+        "address": "London",
+        "pincode": "431100"
+      }
+    ],
+    "orders": [
+      {
+        "id": 1,
+        "name": "Veg pizza",
+        "image": "https://tse1.mm.bing.net/th?id=OIP.kOC4SVEtjR50s0-RBs5vWwHaFX&pid=Api&rs=1&c=1&qlt=95&w=140&h=101",
+        "price": 349,
+        "description": "Delightful Kashundi flavours on a veg pizza which is Loaded with spicy jalapenos and tomatoes and a gentle drizzle of Kashundi sauce",
+        "size": "middum",
+        "address": "London",
+        "pincode": "431100",
+        "status": "order placed"
       }
     ]
   }
